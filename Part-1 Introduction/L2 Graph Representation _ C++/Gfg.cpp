@@ -30,6 +30,7 @@ int main(){
     for(int i = 0 ; i<m;i++){
         int u,v;
         cin>>u >>v;
+        for
 
         adj[u].push_back(v);
         // adj[v].push_back(u); this line not requiredd in case4 of diorected of one way graph as other way wont be a case
